@@ -238,7 +238,7 @@ barbod
 mamad
 
 Our channels
-@teleseedch [English]
+@tele_kaqaz [English]
 ]],
     help_text = [[
 Commands list :
