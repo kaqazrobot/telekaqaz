@@ -199,10 +199,10 @@ https://github.com/SEEDTEAM/TeleSeed
 Admins
 @ho3ein_kqzi
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+ho3ein
+mamad
+barbod
+amin
 Our channels
 @teleseedch [English]
 ]],
